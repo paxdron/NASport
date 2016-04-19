@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#583F5A</color>
+    <color name="colorPrimaryDark">#573c6b</color>
+    <color name="colorAccent">#FF8B7C</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="colorText">#4d535a</color>
+    <color name="colorTextLight">#FFFFFF</color>
+</resources>

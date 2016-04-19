@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Neurodyn Aussie Sport</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="stim_mode">Modo de Estimulación</string>
+    <string name="carrier">Frecuencia de la Portadora</string>
+    <string name="duracion_burst">Duracion de Burst</string>
+    <string name="frecuencia_burst">Frecuencia de Burst</string>
+    <string name="tiempo_aplicacion">Tiempo de Aplicación</string>
+    <string name="rise">Tiempo de Ascenso</string>
+    <string name="on">Tiempo Encendido</string>
+    <string name="decay">Tiempo de Bajada</string>
+    <string name="off">Tiempo de Reposo</string>
+    <string name="tab_stim_mode">Stim. Mode</string>
+    <string name="tab_carrier">Carrier</string>
+    <string name="tab_duracion_burst">Duration (ms)</string>
+    <string name="tab_frecuencia_burst">Frequency (Hz)</string>
+    <string name="tab_tiempo_aplicacion">Tiempo de Aplicación</string>
+    <string name="tab_rise">Rise(s)</string>
+    <string name="tab_on">ON(s)</string>
+    <string name="tab_decay">Decay(s)</string>
+    <string name="tab_off">OFF(s)</string>
+    <string name="tab_tiempo">Tiempo Tratamiento</string>
+    <string name="titleAddres">Direccion IP</string>
+    <string name="titlePort">Puerto</string>
+    <string name="titleRed">Red</string>
+    <string name="keyAddres">IP</string>
+    <string name="keyPort">PORT</string>
+    <string name="summaryAddres">Direccion IP del Dispositivo</string>
+    <string name="summaryPort">Puerto del dispositvo</string>
+    <string name="start">Iniciar</string>
+    <array name="stimm_mode">
+        <item>Continuo</item>
+        <item>Sicronizado</item>
+        <item>Recíproco</item>
+    </array>
+    <array name="carrier">
+        <item>1 KHz</item>
+        <item>4 KHz</item>
+    </array>
+    <array name="duration">
+        <item>2 mS</item>
+        <item>4 mS</item>
+    </array>
+
+    <string name="hz"> Hz</string>
+    <string name="min"> Minutos</string>
+    <string name="seg"> Segundos</string>
+</resources>
